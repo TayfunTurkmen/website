@@ -33,7 +33,7 @@ export function Vcard() {
   )
 } 
 
-function SocialLink({ href, icon } : { href: { type: string }, icon: { type: string } } ) {
+function SocialLink({ href, icon } ) {
   return (
     <a
       href={href}
