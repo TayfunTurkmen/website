@@ -11,7 +11,7 @@ export function Vcard() {
           <p className="text-gray-300 mb-6">Full Stack Developer</p>
           <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-4 border-blue-500">
             <img
-              src="/placeholder.svg?height=128&width=128"
+              src="./placeholder.svg?height=128&width=128"
               alt="Tayfun Türkmen"
               className="w-full h-full object-cover"
             />
@@ -23,9 +23,9 @@ export function Vcard() {
           </p>
           <div className="flex justify-center space-x-4">
             <SocialLink href="https://github.com/tayfunturkmen" icon={<Github className="w-6 h-6" />} />
-            <SocialLink href="https://linkedin.com/in/tayfunturkmen" icon={<Linkedin className="w-6 h-6" />} />
-            <SocialLink href="https://twitter.com/tayfunturkmen" icon={<Twitter className="w-6 h-6" />} />
-            <SocialLink href="mailto:tayfun@example.com" icon={<Mail className="w-6 h-6" />} />
+            <SocialLink href="https://linkedin.com/in/tayfun-turkmen" icon={<Linkedin className="w-6 h-6" />} />
+            <SocialLink href="https://twitter.com/tayfunturkmenx" icon={<Twitter className="w-6 h-6" />} />
+            <SocialLink href="mailto:website@tayfun.tr" icon={<Mail className="w-6 h-6" />} />
           </div>
         </div>
       </div>
