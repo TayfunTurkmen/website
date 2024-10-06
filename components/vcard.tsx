@@ -31,9 +31,9 @@ export function Vcard() {
       </div>
     </div>
   )
-}
+} 
 
-function SocialLink({ href, icon }) {
+function SocialLink({ href, icon } : { href: { slug: string }, icon: { slug: string } } ) {
   return (
     <a
       href={href}
