@@ -1,4 +1,4 @@
-import { Vcard } from '../components/Vcard'
+import { Vcard } from '../components/vcard'
 
 export default function vCard() {
   return (
