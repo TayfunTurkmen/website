@@ -11,7 +11,7 @@ export function Vcard() {
           <p className="text-gray-300 mb-6">Full Stack Developer</p>
           <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-4 border-blue-500">
             <img
-              src="./tt.png?height=128&width=128"
+              src="https://raw.githubusercontent.com/TayfunTurkmen/website/refs/heads/master/tt.png?height=128&width=128"
               alt="Tayfun Türkmen"
               className="w-full h-full object-cover"
             />
