@@ -1,2 +1,2 @@
-## Tayfun Türkmen Web Sitesi
+## Tayfun Türkmen Website
 Next.js - Tailwind CSS
