@@ -8,7 +8,7 @@ export function Vcard() {
       <div className="bg-gray-800 bg-opacity-50 backdrop-blur-lg rounded-2xl shadow-xl p-8 max-w-md w-full transform transition-all hover:scale-105 duration-300 ease-in-out">
         <div className="text-center">
           <h1 className="text-4xl font-bold text-white mb-2">Tayfun Türkmen</h1>
-          <p className="text-gray-300 mb-6">Full Stack Developer</p>
+          <p className="text-gray-300 mb-6">Web Developer</p>
           <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden border-4 border-blue-500">
             <img
               src="https://raw.githubusercontent.com/TayfunTurkmen/website/refs/heads/master/tt.png?height=128&width=128"
