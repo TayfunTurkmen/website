@@ -24,7 +24,6 @@ export function Vcard() {
           <div className="flex justify-center space-x-4">
             <SocialLink href="https://github.com/tayfunturkmen" icon={<Github className="w-6 h-6" />} />
             <SocialLink href="https://linkedin.com/in/tayfun-" icon={<Linkedin className="w-6 h-6" />} />
-            <SocialLink href="https://twitter.com/tayfunturkmenx" icon={<Twitter className="w-6 h-6" />} />
             <SocialLink href="mailto:website@tayfun.tr" icon={<Mail className="w-6 h-6" />} />
           </div>
         </div>
